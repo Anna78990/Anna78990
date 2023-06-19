@@ -11,11 +11,14 @@
 
 ### My Porfolio project
 
--   For my portfolio project, I worked with a peer on a mobile application. It’s an X.. application, built with swift and X.. We learned how to be organised to deliver a working MVC in a manner of a few weeks…
+-   http://takasuanna.online/ (E-commerce site)
+-   https://jemenfous.web.fc2.com/index.html (Cafe site)
+-   https://takasuanna.online/PHPPP/LOKISALLE/index.php (Dynamic web site)
 
 #### If you want to reach out to me, you can message me on:
 
 - [LinkedIn](https://www.linkedin.com/in/anna-takasu-59ba29ba/)
+- [Twitter](https://twitter.com/KinuwaReeves?ref_src=twsrc%5Etfw)
 
 ### Languages and Tools
 <img src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" 

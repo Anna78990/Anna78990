@@ -17,7 +17,7 @@
 
 #### If you want to reach out to me, you can message me on:
 
-- [LinkedIn](https://www.linkedin.com/in/anna-takasu-59ba29ba/)
+- [LinkedIn](https://www.linkedin.com/in/anna-t-59ba29ba/)
 - [Twitter](https://twitter.com/KinuwaReeves?ref_src=twsrc%5Etfw)
 
 ### Languages and Tools
